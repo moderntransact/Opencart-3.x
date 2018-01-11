@@ -11,7 +11,7 @@ Dependency modules for this plug are:
 
 > NOTE:  If you are uploading this file to a remote server from your local machine you will need to have FTP or SSH Credentials to install this plugin
 
-1.  Download the Modern Transact Ubercart 3.x latest release [mt_ubercart_*.*.*.zip](https://github.com/bmartin-phd/Ubercart3.x/releases) to your local drive
+1.  Download the Modern Transact Ubercart 3.x latest release [mt_ubercart_*.*.*.zip](https://github.com/moderntransact/Opencart-3.x/releases) to your local drive
 2.  From your Drupal Administrator Menu, select `Modules` the click on `Install New Module`
 3.  In the Install New Module screen, select `Choose File` and attch the mt_ubercart_*.*.*.zip you just downloaded and then press `Install`.
 4.  Enter your FTP or SSH Credentials to install the module in your Drupal site
