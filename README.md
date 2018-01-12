@@ -1,5 +1,7 @@
 # Modern Transact Opencart 3.x Plugin Installation
 
+##### Release 1.0.0
+
 1.  [Download and unzip](www.moderntransact.com/carts/link) the ModernTransact Opencart 3.x zip file to a new directory.
 2.  The unzipped file provides the files required to install the Modern Transact Opencart 3.x Plugin using the same directory structure (`/admin` and `/catalog`) found in your Opencart installation.  You need to copy each these files into the corrosponding Opencart directories.
 >For example, the unzipped file `admin\controller\extension\payment\moderntransact.php` needs to be copied to your Opencart server `..admin\controller\extension\payment\` folder.
